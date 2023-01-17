@@ -6,7 +6,7 @@ FullStack Developer
 
 I am a construction worker turned web-developer. I attended a full-stack bootcamp powered by Trulogy and partnered with Southern Methodist University to help with my career transition. I learned a lot from HTML and React to MongoDB and all the routes in-between, even managed to ace the class 💪 . I am now ready to take my skills full-time and start a new career!
 
-* 👀  Check out my [Portfolio](fabianguccierrez.com) 
+* 👀  Check out my [Portfolio](www.fabianguccierrez.com) 
 * 🌍  I'm based in Dallas, Texas
 * ✉️  You can contact me at [fabiangutierrez580@gmail.com](mailto:fabiangutierrez580@gmail.com)
 * 🧠  currently learning Python
